@@ -1,0 +1,6 @@
+.idea
+.vscode
+Web/bin
+Web/obj
+Worker/bin
+Worker/obj
